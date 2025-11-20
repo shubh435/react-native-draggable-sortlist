@@ -1,7 +1,11 @@
 {
-  "name": "react-native-draggable-grid",
+  "name": "react-native-draggable-sortlist",
   "version": "0.1.0",
   "private": false,
+  "description": "A React Native component that provides a draggable grid layout for rearranging items with touch gestures.",
+  "respository": {
+    "url": "https://github.com/shubh435/react-native-draggable-sortlist"
+  },
   "scripts": {
     "android": "react-native run-android",
     "ios": "react-native run-ios",
